@@ -1,1 +1,3 @@
-# CITiUFPE_PTA2023.2_DesafioJavaScript
+# Desafio do PTA do CITi UFPE
+
+## JavaScript
